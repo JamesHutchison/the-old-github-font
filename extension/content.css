@@ -10,3 +10,7 @@ body {
   font-size: 13px !important;
   line-height: 1.4 !important;
 }
+
+.blob-code {
+  line-height: 1.4 !important;
+}
